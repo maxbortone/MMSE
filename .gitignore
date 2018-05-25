@@ -1,0 +1,5 @@
+__pycache__
+images/*
+.python-version
+.ipynb_checkpoints
+hlsp_*.fits

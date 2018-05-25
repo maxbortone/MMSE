@@ -1,0 +1,8 @@
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_acswfc-60mas_hudf_f814w_v1_sci.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_acswfc-60mas_hudf_f814w_v1_wht.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f125w_v1_sci.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f125w_v1_wht.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f140w_v1_sci.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f140w_v1_wht.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f160w_v1_sci.fits
+https://archive.stsci.edu/pub/hlsp/xdf/hlsp_xdf_hst_wfc3ir-60mas_hudf_f160w_v1_wht.fits
