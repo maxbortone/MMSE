@@ -1,9 +1,7 @@
 # Multi Mode Source Extraction
-_Pushing the limits of SExtractor_
+_Pushing the limits of [SExtractor](http://www.astromatic.net/software/sextractor)_
 
-This repository contains all of the research I did during my master degree semester project,
-which took place at the Harvard-Smithsonian Center of Astrophysics in Cambridge, MA.
-My work has been supervised by Sandro Tacchella<sup>[1](#harvard)</sup>, Daniel Eisenstein<sup>[1](#harvard)</sup>, Ben Johnson<sup>[1](#harvard)</sup> and Alexandre Refregier<sup>[2](#eth)</sup>.
+This repository contains all of the work I did during my semester project in the spring semester of 2018, as part of my Physics Master ETH degree. For this I travelled to the Harvard-Smithsonian Center of Astrophysics in Cambridge, MA, to work with Sandro Tacchella<sup>[1](#harvard)</sup>, Daniel Eisenstein<sup>[1](#harvard)</sup> and Ben Johnson<sup>[1](#harvard)</sup> on source extraction methods suited for the upcoming [JWST](https://jwst.nasa.gov/index.html) deep imaging data. Alexandre Refregier<sup>[2](#eth)</sup> supervised my work from ETH.
 
 ## Content
 - `data` folder contains:
@@ -15,7 +13,7 @@ My work has been supervised by Sandro Tacchella<sup>[1](#harvard)</sup>, Daniel 
 - `mmse.py` contains the final `MultiModeSourceExtractor` class
 
 ## Getting started
-Before running any notebooks, download the HST XDF
+Before running any notebooks, download the [HST XDF](https://archive.stsci.edu/prepds/xdf/) data
 ```
 cd ./data/
 wget $(cat hlsp_xdf_hst_download_v1.txt)
